@@ -1,5 +1,5 @@
-# 💫 About Me:
-Security-minded developer focused on breaking systems to understand them.<br><br>I build offensive security tools instead of copying tutorials.<br>Most repositories here exist to explore how networks, protocols, and web applications fail under real attack scenarios.<br><br>### Interests<br>- Bug Bounty & real-world exploitation<br>- Network scanning beyond basic TCP connect<br>- Service fingerprinting & detection evasion<br>- Understanding security controls by bypassing them<br><br>### Philosophy<br>If a tool doesn’t teach me something Nmap, Burp, or Metasploit can’t — it’s useless.<br><br>GitHub is my proving ground.<br>
+# 💫 About US or ME:
+Security-minded developer or developers focused on breaking systems to understand them.<br><br>I build offensive security tools instead of copying tutorials.<br>Most repositories here exist to explore how networks, protocols, and web applications fail under real attack scenarios.<br><br>### Interests<br>- Bug Bounty & real-world exploitation<br>- Network scanning beyond basic TCP connect<br>- Service fingerprinting & detection evasion<br>- Understanding security controls by bypassing them<br><br>### Philosophy<br>If a tool doesn’t teach me something Nmap, Burp, or Metasploit can’t — it’s useless.<br><br>GitHub is my proving ground.<br>
 
 
 ## 🌐 Socials:
